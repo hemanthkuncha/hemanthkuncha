@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-kumar-kuncha-8b29b5281/)
 
-<h3 align="center">Network engineer leveling up to DevOps engineer</h3>
+### Glad to see you here!
+
+I'm upskilling from network engineering to DevOps
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthkuncha&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthkuncha" /> </p>
 
