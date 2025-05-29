@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### <samp>&gt; Hi there, I'm <a href="https://www.linkedin.com/in/hemanth-kumar-kuncha-8b29b5281/" target="_blank">Hemanth Kuncha</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </samp>
-<h1 align="center">Hi there, I'm Hemanth Kuncha 👋</h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-kumar-kuncha-8b29b5281/)
+
 <h3 align="center">Network engineer leveling up to DevOps engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthkuncha&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthkuncha" /> </p>
