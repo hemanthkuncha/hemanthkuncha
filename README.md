@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthkuncha&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthkuncha" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 - 👨‍💻 All of my projects are available at [https://github.com/hemanthkuncha](https://github.com/hemanthkuncha)
 
 - 🌱 I’m currently learning **AWS DEVOPS**
