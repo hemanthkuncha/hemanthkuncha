@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### <samp>&gt; Hi there, I'm <a href="https://www.linkedin.com/in/hemanth-kumar-kuncha-8b29b5281/" target="_blank">Hemanth Kuncha</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </samp>
 <h1 align="center">Hi there, I'm Hemanth Kuncha 👋</h1>
 <h3 align="center">Network engineer leveling up to DevOps engineer</h3>
 
