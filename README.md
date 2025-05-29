@@ -23,10 +23,9 @@ I'm upskilling from network engineering to DevOps
 I started my career in networking, focused on keeping systems connected and reliable. Over the past few years, I’ve grown passionate about building tools and workflows that make infrastructure smarter and faster. That’s why I’m transitioning into DevOps — to contribute to systems that are automated, scalable, and ready for the future
 
 <!-- From routing packets to running pipelines — my journey from network engineering to DevOps is all about evolution. I love building infrastructure that’s not just reliable, but reproducible, scalable, and ready for whatever comes next -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthkuncha&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthkuncha" /> </p>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/hemanthkuncha](https://github.com/hemanthkuncha)
 
