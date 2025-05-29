@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 I'm upskilling from network engineering to DevOps
 
+I started my career in networking, focused on keeping systems connected and reliable. Over the past few years, I’ve grown passionate about building tools and workflows that make infrastructure smarter and faster. That’s why I’m transitioning into DevOps — to contribute to systems that are automated, scalable, and ready for the future
+
+<!-- From routing packets to running pipelines — my journey from network engineering to DevOps is all about evolution. I love building infrastructure that’s not just reliable, but reproducible, scalable, and ready for whatever comes next -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthkuncha&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthkuncha" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -34,7 +38,9 @@ I'm upskilling from network engineering to DevOps
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hemanth-kumar-kuncha-8b29b5281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth-kumar-kuncha-8b29b5281/" height="20" width="20" /></a>
+  
+<!-- <a href="https://linkedin.com/in/hemanth-kumar-kuncha-8b29b5281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth-kumar-kuncha-8b29b5281/" height="20" width="20" /></a> -->
+  
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
