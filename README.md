@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Hemanth Kuncha</h1>
+<h1 align="center">Hi there, I'm Hemanth Kuncha 👋</h1>
 <h3 align="center">Network engineer leveling up to DevOps engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthkuncha&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthkuncha" /> </p>
