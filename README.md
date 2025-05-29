@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **hemanthkuncha06@gmail.com**
 
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hemanth-kumar-kuncha-8b29b5281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth-kumar-kuncha-8b29b5281/" height="20" width="20" /></a>
